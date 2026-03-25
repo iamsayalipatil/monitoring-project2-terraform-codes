@@ -1,1 +1,0 @@
-# monitoring-project2-terraform-codes
